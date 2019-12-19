@@ -8,7 +8,7 @@ const data = {
 			capital: 'Washington',
 			cost: 1250,
 			details: 'United States are among the most visited country in the world.',
-			img: 'washington.jpg'
+			img: 'washington.jpg' 
 		},
 		{
 			id: 2,
